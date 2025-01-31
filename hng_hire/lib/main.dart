@@ -157,32 +157,32 @@ class MyApp extends StatelessWidget {
                 TalentTile(
                   bgColor: TileColors.color1.color,
                   title: "Flutter Developers",
-                  link: "http://hng.tech/hire/flutter-developers",
+                  link: "https://hng.tech/hire/flutter-developers",
                 ),
                 TalentTile(
                   bgColor: TileColors.color2.color,
                   title: "React-Native Developers",
-                  link: "http://hng.tech/hire/react-native-developers",
+                  link: "https://hng.tech/hire/react-native-developers",
                 ),
                 TalentTile(
                   bgColor: TileColors.color3.color,
                   title: "Kotlin Developers",
-                  link: "http://hng.tech/hire/kotlin-developers",
+                  link: "https://hng.tech/hire/kotlin-developers",
                 ),
                 TalentTile(
                   bgColor: TileColors.color1.color,
                   title: "Mobile Developers",
-                  link: "http://hng.tech/hire/mobile-ui-ux-developers",
+                  link: "https://hng.tech/hire/mobile-ui-ux-developers",
                 ),
                 TalentTile(
                   bgColor: TileColors.color3.color,
                   title: "Android Developers",
-                  link: "http://hng.tech/hire/android-developers",
+                  link: "https://hng.tech/hire/android-developers",
                 ),
                 TalentTile(
                   bgColor: TileColors.color2.color,
                   title: "iOS Developers",
-                  link: "http://hng.tech/hire/ios-developers",
+                  link: "https://hng.tech/hire/ios-developers",
                 )
               ],
             ),
