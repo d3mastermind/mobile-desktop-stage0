@@ -44,3 +44,10 @@ cd mobile-desktop-stage0
 
 - iOS
 ```flutter build ios --release```
+
+
+## APK
+- [Download and install APK file](https://github.com/d3mastermind/mobile-desktop-stage0/blob/main/hng_hire/apk/app-release.apk)
+
+## Live Preview
+- [Live Preview](https://appetize.io/app/b_525lklqd5ei5lzkvocrsslxzeq)
