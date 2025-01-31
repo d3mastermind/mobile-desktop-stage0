@@ -1,16 +1,46 @@
-# hng_hire
+# HNG Hire - Mobile App
 
-A new Flutter project.
+A Flutter mobile application for discovering and hiring elite tech talent from the HNG network. The app showcases various developer categories and provides easy access to HNG's hiring platform.
+
+## Featured Links
+- [GitHub Repository](https://github.com/d3mastermind/mobile-desktop-stage0/tree/main/hng_hire)
+- [Delve](https://delve.fun/)
+- [Telex](https://telex.im/)
+- [HNG Hire Platform](https://hng.tech/hire)
+
+## Developer Categories
+Browse and hire talented developers in various specializations:
+- [Flutter Developers](http://hng.tech/hire/flutter-developers)
+- [React-Native Developers](http://hng.tech/hire/react-native-developers)
+- [Kotlin Developers](http://hng.tech/hire/kotlin-developers)
+- [Mobile UI/UX Developers](http://hng.tech/hire/mobile-ui-ux-developers)
+- [Android Developers](http://hng.tech/hire/android-developers)
+- [iOS Developers](http://hng.tech/hire/ios-developers)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter (latest stable version)
+- Dart SDK
+- Android Studio / Xcode
+- Git
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository
+```bash
+git clone https://github.com/d3mastermind/mobile-desktop-stage0.git
+cd mobile-desktop-stage0
+```
+2. Install dependencies
+```flutter pub get```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app
+```flutter run```
+
+#### Building for Release
+- Android
+```flutter build apk --release```
+
+- iOS
+```flutter build ios --release```
